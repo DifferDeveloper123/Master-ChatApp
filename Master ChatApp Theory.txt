@@ -1,0 +1,25 @@
+                        __           __          ________       
+                       |  |         |  |        |
+                       |    |     |    |        |
+                       |      | |      |        |
+                       |               |        |
+                       |               |  __    |          _
+                       |               | |__|   |________ |__|
+
+                       MASTER                    CHATAPP
+
+contents-
+phone no. = Room No.
+email = password 
+for choosing passWord 
+use a web site
+>>>>>>
+than
+open profie 
+we can choose our PHOTO
+         and 
+name
+
+Single Chat and Groups are must
+
+we can't open others picture
